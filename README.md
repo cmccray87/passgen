@@ -13,5 +13,4 @@
 1. Click OK if you want upper case in your password - Cancel if not.
 1. Password is generated.
 
-<iframe src="https://drive.google.com/file/d/1yBaR7GXRWNsVNwa5vSBJPr1mie7etgqc/preview" width="640" height="480"></iframe>
-
+[![Watch the video](https://drive.google.com/file/d/1yBaR7GXRWNsVNwa5vSBJPr1mie7etgqc/preview)
